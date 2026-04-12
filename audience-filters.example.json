@@ -1,0 +1,6 @@
+{
+  "collect_only_recently_active": true,
+  "require_profile_photo": false,
+  "premium_only": false,
+  "exclude_bots": true
+}
