@@ -40,6 +40,12 @@ Audience Parser is a Deskgram 2 module for collecting users from Telegram groups
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) if you need to organize the working account layer first.
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) if the environment should be prepared before the next stage.
 
+## How this page fits broader English workflows
+
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) if the parser depends on a clean infrastructure layer.
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) if the environment should be configured before execution starts.
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) if you want the collection and the next execution step visible in one place.
+
 ## Interface highlights
 
 ### Filters
@@ -74,6 +80,9 @@ Audience Parser is a Deskgram 2 module for collecting users from Telegram groups
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
 - [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
 
 ## FAQ
 
