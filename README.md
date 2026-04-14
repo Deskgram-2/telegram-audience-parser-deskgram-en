@@ -73,6 +73,29 @@ Audience Parser is a Deskgram 2 module for collecting users from Telegram groups
 | Data is hard to move into the next tools | Export is part of the workflow |
 | There is little process visibility | Progress, logs, and result states are visible |
 
+## What to choose: Audience Parser, Comment Audience Parser, or Active Chat Users Parser
+
+| If your goal is | Better fit |
+|---|---|
+| Build a broad user base from groups and chats | [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) |
+| Focus on warmer users from post discussions | [Comment Audience Parser](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram) |
+| Target users who already write in chats | [Active Chat Users Parser](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram) |
+| Build segmented bases for different funnels | Combine all three collection routes |
+
+## Scenario FAQ
+
+### When should the collected base go into direct messaging and when into invite?
+
+Use [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) when personal contact is the next step. Use [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) when the goal is community growth from a prepared base.
+
+### Which kind of base usually performs better?
+
+Warmer segments from comments and active discussions often perform better for response-driven workflows. Broader collection is still valuable when you plan to filter further or run a wider funnel.
+
+### What should I do if I do not know which sources to parse yet?
+
+Start with discovery layers such as [Channel Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram) and [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram), then move into parsing once the source set is clearer.
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
