@@ -94,7 +94,7 @@ Warmer segments from comments and active discussions often perform better for re
 
 ### What should I do if I do not know which sources to parse yet?
 
-Start with discovery layers such as [Channel Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram) and [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram), then move into parsing once the source set is clearer.
+Start with discovery layers such as [Channel Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en) and [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram-en), then move into parsing once the source set is clearer.
 
 ## Related repositories
 
