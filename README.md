@@ -1,15 +1,15 @@
-# Telegram Audience Parser with Deskgram 2
+﻿# Telegram Audience Parser with Deskgram 2
 
 ![Audience Parser Main](assets/screenshots/collect-audience__main__en.png)
 
 Audience Parser is a Deskgram 2 module for collecting users from Telegram groups and chats. It helps you prepare a user base for messaging, invite scenarios, and segmentation using filters based on activity, hidden status, profile photo, Premium, and other signals.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience&lang=en)
 
 If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
 
@@ -130,3 +130,4 @@ Yes. You can run a broad collection mode if you do not need extra segmentation.
 ### Can I export the result?
 
 Yes. The module is designed for further use of the collected base.
+
